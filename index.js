@@ -1,5 +1,3 @@
-<script>
-
 const swiper = new Swiper('.swiper.is-office', {
   // Optional parameters
   direction: 'horizontal',
@@ -23,5 +21,3 @@ const swiper = new Swiper('.swiper.is-office', {
 
  
 });
-
-</script>
